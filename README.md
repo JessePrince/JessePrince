@@ -35,6 +35,6 @@ https://zhenglinblog.top
 <br/>  
 
 ## Extra
-I'm also a photographer, my photos are used by some official media in China and they have also been shown in some photography exhibitions. This is the link to my personal page in 500px(China): https://500px.com.cn/LIGHTcoPicture
+I'm also a photographer, my photos are used by some official medias in China and they have also been shown in some photography exhibitions. This is the link to my personal page in 500px(China): https://500px.com.cn/LIGHTcoPicture
 
 <img src="https://komarev.com/ghpvc/?username=JessePrince&&style=flat-square" align="center" />
